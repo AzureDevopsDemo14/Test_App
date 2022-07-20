@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/Test_App/Test_App/.vs/Test_App
+/Test_App/Test_App/bin/Debug/netcoreapp3.1
+/Test_App/Test_App/obj
